@@ -1,3 +1,2 @@
 This is Sample 3
-revert sample
-3
+git revert 3
